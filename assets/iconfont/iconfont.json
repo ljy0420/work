@@ -1,0 +1,44 @@
+{
+  "id": "2056307",
+  "name": "龙弛照明",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "龙弛照明",
+  "glyphs": [
+    {
+      "icon_id": "11858790",
+      "name": "井盖",
+      "font_class": "jinggai",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "22758741",
+      "name": "井盖",
+      "font_class": "jg",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "23719309",
+      "name": "井盖",
+      "font_class": "jinggai1",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "4641177",
+      "name": "设备",
+      "font_class": "shebei",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "11806533",
+      "name": "电箱",
+      "font_class": "dianxiang",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    }
+  ]
+}
